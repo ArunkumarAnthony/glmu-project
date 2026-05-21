@@ -32,11 +32,11 @@ experiments = {
         "replicate_*/model_0/test_predictions.csv"
     ),
     "Antibiotics → H.pylori → GLmU (Freeze)": (
-        "models/glmu_transfer_ensemble_freeze/"
+        "models/glmu_transfer_ensemble_freeze_v2_seed/"
         "replicate_*/model_0/test_predictions.csv"
     ),
     "Antibiotics → H.pylori → GLmU (Unfreeze)": (
-        "models/glmu_transfer_ensemble_no_freeze/"
+        "models/glmu_transfer_ensemble_no_freeze_v2_seed/"
         "replicate_*/model_0/test_predictions.csv"
     ),
 }
